@@ -12,4 +12,6 @@ Cheese\
 Ham\
 Apples\
 Water\
-iPad Case}
+iPad Case\
+Screen Protector\
+Shower Gel}
